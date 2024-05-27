@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yarik0310/SPA_CH.git/static/css/main.975897d1.css",
+    "main.js": "/Yarik0310/SPA_CH.git/static/js/main.96347f68.js",
+    "static/media/povariha.jpg": "/Yarik0310/SPA_CH.git/static/media/povariha.ed85ff049e3522e7c50b.jpg",
+    "static/media/povar1.jpg": "/Yarik0310/SPA_CH.git/static/media/povar1.957a18b11bc3808ac9f0.jpg",
+    "index.html": "/Yarik0310/SPA_CH.git/index.html",
+    "main.975897d1.css.map": "/Yarik0310/SPA_CH.git/static/css/main.975897d1.css.map",
+    "main.96347f68.js.map": "/Yarik0310/SPA_CH.git/static/js/main.96347f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975897d1.css",
+    "static/js/main.96347f68.js"
+  ]
+}
